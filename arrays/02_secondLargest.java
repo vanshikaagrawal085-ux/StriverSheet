@@ -1,4 +1,4 @@
-lass Solution {
+class Solution {
     public int secondLargestElement(int[] nums) {
     int n = nums.length;
     int largest = 0;
